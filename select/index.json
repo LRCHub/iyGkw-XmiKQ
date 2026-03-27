@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "命をくれよ",
+  "base_artist": "TOGENASHI TOGEARI",
+  "createdAt": "2026-03-27T09:38:25.038727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "命をくれよ",
+      "artist": "TOGENASHI TOGEARI",
+      "has_synced": false,
+      "path": "select/01_命をくれよ_TOGENASHI_TOGEARI.txt"
+    }
+  ]
+}
